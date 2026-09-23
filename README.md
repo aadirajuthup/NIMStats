@@ -1,9 +1,9 @@
 <div align="center">
 
-[![NIMStats Banner](https://capsule-render.vercel.app/api?type=waving&color=76b900&height=220&section=header&text=NIMStats&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20NVIDIA%20NIM%20Benchmark%20Dashboard&descSize=22&descAlignY=60&descAlign=50)](https://nimstats.maurodruwel.be/)
+[![NIMStats Banner](https://capsule-render.vercel.app/api?type=waving&color=76b900&height=220&section=header&text=NIMStats&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20NVIDIA%20NIM%20Benchmark%20Dashboard&descSize=22&descAlignY=60&descAlign=50)](https://aadirajuthup.github.io/NIMStats/)
 
 [![CI](https://github.com/MauroDruwel/NIMStats/actions/workflows/benchmark.yml/badge.svg)](https://github.com/MauroDruwel/NIMStats/actions)
-[![Live Dashboard](https://img.shields.io/badge/🌐%20live-nimstats.maurodruwel.be-76b900?style=flat-square)](https://nimstats.maurodruwel.be/)
+[![Live Dashboard](https://img.shields.io/badge/🌐%20live-aadirajuthup.github.io%2FNIMStats-76b900?style=flat-square)](https://aadirajuthup.github.io/NIMStats/)
 [![Models](https://img.shields.io/badge/models-22-blue?style=flat-square)](https://build.nvidia.com/models)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/MauroDruwel/NIMStats/pulls)
@@ -15,7 +15,7 @@
 
 <br/>
 
-**[🚀 View Live Dashboard](https://nimstats.maurodruwel.be/) · [📖 Docs](#-quick-start) · [🤝 Contribute](#-contributing) · [💬 Discussions](https://github.com/MauroDruwel/NIMStats/discussions)**
+**[🚀 View Live Dashboard](https://aadirajuthup.github.io/NIMStats/) · [📖 Docs](#-quick-start) · [🤝 Contribute](#-contributing) · [💬 Discussions](https://github.com/MauroDruwel/NIMStats/discussions)**
 
 </div>
 
@@ -99,9 +99,9 @@ NIMStats exposes lightweight, static API endpoints for querying the #1 model in 
 
 | Category | Endpoint (JSON) | Endpoint (Plain Text) | Scoring Balance |
 | :--- | :--- | :--- | :--- |
-| **⚖️ Balanced (Overall)** | [`/top`](https://nimstats.maurodruwel.be/top) | [`/top/model`](https://nimstats.maurodruwel.be/top/model) | **30%** Uptime + **30%** Intelligence + **20%** Avg Time + **20%** Throughput |
-| **🏎️ Speed & Throughput** | [`/top/speed`](https://nimstats.maurodruwel.be/top/speed) | [`/top/speed/model`](https://nimstats.maurodruwel.be/top/speed/model) | **50%** Avg Response Time + **50%** Throughput (TPS) |
-| **🧠 Model Intelligence** | [`/top/intelligence`](https://nimstats.maurodruwel.be/top/intelligence) | [`/top/intelligence/model`](https://nimstats.maurodruwel.be/top/intelligence/model) | **70%** Artificial Analysis Score + **30%** Uptime |
+| **⚖️ Balanced (Overall)** | [`/top`](https://aadirajuthup.github.io/NIMStats/top) | [`/top/model`](https://aadirajuthup.github.io/NIMStats/top/model) | **30%** Uptime + **30%** Intelligence + **20%** Avg Time + **20%** Throughput |
+| **🏎️ Speed & Throughput** | [`/top/speed`](https://aadirajuthup.github.io/NIMStats/top/speed) | [`/top/speed/model`](https://aadirajuthup.github.io/NIMStats/top/speed/model) | **50%** Avg Response Time + **50%** Throughput (TPS) |
+| **🧠 Model Intelligence** | [`/top/intelligence`](https://aadirajuthup.github.io/NIMStats/top/intelligence) | [`/top/intelligence/model`](https://aadirajuthup.github.io/NIMStats/top/intelligence/model) | **70%** Artificial Analysis Score + **30%** Uptime |
 
 ### JSON Response Schema
 
@@ -338,6 +338,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 Made with ❤️ for the ML community · [⭐ Star this repo](https://github.com/MauroDruwel/NIMStats) if you find it useful!
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=76b900&height=100&section=footer)](https://nimstats.maurodruwel.be/)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=76b900&height=100&section=footer)](https://aadirajuthup.github.io/NIMStats/)
 
 </div>
